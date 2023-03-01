@@ -5,6 +5,16 @@ LírioBlog é um site que simula uma espécie de Twitter Simplificado, no qual o
 <br/>
 <hr/>
 <br/>
+## Como entrar no site?
+Baixe o arquivo.zip e extraia os arquivos, você também pode dar git pull no repositório, git@github.com:medeirosdev/LirioBlog.git , para adquirir a pasta.
+Em seguida, instale as Dependências, para isso, você precisa do NodeJS
+- Para Instalar o NodeJS, clique <a href="https://nodejs.org/en/"> Aqui </a>
+Em seguida, para instalar as dependências, use 
+
+``` npm install bcryptjs connect-flash cookie-parser cookie-session express express-flash express-session mysql2 nodemon sequelize session-file-store express-handlebars ```
+
+Em seguida, para rodar a aplicação, use ``` node index.js ```
+Para acessar o site, abra o seu navegador e entre nesse endereço http://localhost:3000/
 
 ## Tecnologias usadas no projeto:
 <div>
@@ -20,6 +30,8 @@ LírioBlog é um site que simula uma espécie de Twitter Simplificado, no qual o
 ## Arquitetura de Software:
 Utilizei com maestria a arquitetura MVC ( MODEL-VIEW-CONTROLLER) no qual contribui para uma manutenção e expansão muito mais fácil do aplicativo.
 Caso queira saber mais sobre MVC e sua estrutura Incrível, veja em <a href="https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308"> MVC Tutorial </a>
+
+## Novas Versões e Atualizações!
 
 
           
