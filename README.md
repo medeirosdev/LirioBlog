@@ -1,10 +1,12 @@
-﻿# LírioBlog
+# LírioBlog
 
 ## Sobre o que é esse Projeto?
 LírioBlog é um site que simula uma espécie de Twitter Simplificado, no qual os membros podem criar sua contas e compartilhar ideias e pensamentos, no qual serão salvos nas suas respectivas contas e aparecerão para todos os outros usuários no feed principal.
 <br/>
 <hr/>
 <br/>
+https://www.youtube.com/watch?v=-95RcPCbtQg
+
 ## Como entrar no site?
 Baixe o arquivo.zip e extraia os arquivos, você também pode dar git pull no repositório, git@github.com:medeirosdev/LirioBlog.git , para adquirir a pasta.
 Em seguida, instale as Dependências, para isso, você precisa do NodeJS
